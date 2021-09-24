@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "614d42f6a2aea7de32a50d15",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "name": "Karina Hooper",
+    "gender": "female",
+    "company": "CINASTER",
+    "email": "karinahooper@cinaster.com",
+    "phone": "+1 (820) 499-2638",
+    "address": "641 Stewart Street, Woodlake, Ohio, 3123",
+    "registered": "2019-05-21T06:55:57 -06:00",
+    "latitude": 36.499271,
+    "longitude": 158.33247,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jenna Michael"
+      },
+      {
+        "id": 1,
+        "name": "Edwards Campbell"
+      },
+      {
+        "id": 2,
+        "name": "Graciela Schwartz"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "614d42f65a62809a01b99df6",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "name": "Horton Bailey",
+    "gender": "male",
+    "company": "BEDLAM",
+    "email": "hortonbailey@bedlam.com",
+    "phone": "+1 (961) 447-3279",
+    "address": "223 Windsor Place, Wikieup, Louisiana, 7129",
+    "registered": "2019-07-11T11:15:39 -06:00",
+    "latitude": 67.447405,
+    "longitude": 31.897902,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Wilda Berger"
+      },
+      {
+        "id": 1,
+        "name": "Helene Dunlap"
+      },
+      {
+        "id": 2,
+        "name": "Kaitlin Mcclure"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "614d42f6573e814e07c6a1b2",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "name": "Janelle Butler",
+    "gender": "female",
+    "company": "CYTRAK",
+    "email": "janellebutler@cytrak.com",
+    "phone": "+1 (901) 441-2914",
+    "address": "635 Rutland Road, Garfield, Arkansas, 5082",
+    "registered": "2015-06-29T08:33:16 -06:00",
+    "latitude": -51.065344,
+    "longitude": 112.264429,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Liz Lindsay"
+      },
+      {
+        "id": 1,
+        "name": "Velma Stanley"
+      },
+      {
+        "id": 2,
+        "name": "Berry Case"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "614d42f6448f4acc02fecdcf",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "name": "Katy Meyers",
+    "gender": "female",
+    "company": "EMPIRICA",
+    "email": "katymeyers@empirica.com",
+    "phone": "+1 (968) 541-2996",
+    "address": "130 Cortelyou Road, Rutherford, Federated States Of Micronesia, 3283",
+    "registered": "2016-01-07T06:25:38 -06:00",
+    "latitude": -85.391771,
+    "longitude": 78.594044,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Brandie Hickman"
+      },
+      {
+        "id": 1,
+        "name": "Cristina Andrews"
+      },
+      {
+        "id": 2,
+        "name": "Pamela Wong"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "614d42f606b298301cb182ff",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "name": "Wanda Leonard",
+    "gender": "female",
+    "company": "SILODYNE",
+    "email": "wandaleonard@silodyne.com",
+    "phone": "+1 (822) 440-2936",
+    "address": "720 Court Square, Westwood, California, 6799",
+    "registered": "2014-05-15T05:28:51 -06:00",
+    "latitude": 68.138822,
+    "longitude": -51.457742,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Rene Curry"
+      },
+      {
+        "id": 1,
+        "name": "Deidre Mack"
+      },
+      {
+        "id": 2,
+        "name": "Ingram Carney"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "614d42f61345fdee2acd4f49",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "name": "Christie Mosley",
+    "gender": "female",
+    "company": "INTERGEEK",
+    "email": "christiemosley@intergeek.com",
+    "phone": "+1 (899) 516-2144",
+    "address": "868 Tilden Avenue, Leyner, Oregon, 2331",
+    "registered": "2016-10-28T12:32:31 -06:00",
+    "latitude": 78.526209,
+    "longitude": -91.840273,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Dorothy Hanson"
+      },
+      {
+        "id": 1,
+        "name": "Alba Powell"
+      },
+      {
+        "id": 2,
+        "name": "Mccoy Dunn"
+      }
+    ],
+    "favoriteFruit": "banana"
+  }
+]
