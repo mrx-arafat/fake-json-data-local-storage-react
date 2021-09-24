@@ -1,7 +1,6 @@
 //using local storage as DB
-
 const addToFakeDb = (id) => {
-  const exist = localStorage.getItem("shopping_cart");
+  const exist = getDb();
 
   // here at first I used const : be alart
   let shopping_cart = {};
@@ -23,4 +22,19 @@ const addToFakeDb = (id) => {
   localStorage.setItem("shopping_cart", JSON.stringify(shopping_cart));
 };
 
+//removing from local storage
+
+const getDb = () => {
+  localStorage.getItem("shopping_cart");
+};
+
+const removeFromDb = (id) => {
+  const exist = getDb();
+
+  if (!exist) {
+  } else {
+    const shopping_cart = JSON.parse(exist);
+    delete shopping_cart[id];
+  }
+};
 export { addToFakeDb };
