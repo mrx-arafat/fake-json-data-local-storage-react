@@ -19,6 +19,8 @@ const addToFakeDb = (id) => {
       shopping_cart[id] = 1;
     }
   }
+
+  localStorage.setItem("shopping_cart", JSON.stringify(shopping_cart));
 };
 
 export { addToFakeDb };
