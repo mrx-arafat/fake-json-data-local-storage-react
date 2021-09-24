@@ -8,7 +8,11 @@ const Cosmetics = () => {
       .then((data) => console.log(data));
   }, []);
 
-  return <div></div>;
+  return (
+    <div>
+      <h1>hello </h1>
+    </div>
+  );
 };
 
 export default Cosmetics;
